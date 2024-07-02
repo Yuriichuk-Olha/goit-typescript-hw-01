@@ -1,3 +1,5 @@
+//generic Pick
+
 type AllType = {
     name: string;
     position: number;

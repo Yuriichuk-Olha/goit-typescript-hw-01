@@ -1,3 +1,5 @@
+// Використовую утиліту Partial та generics
+
 interface User  {
     name: string;
     surname: string;
